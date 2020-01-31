@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cahkohcha.quehashechoalcalde.org/sitemap.xml
